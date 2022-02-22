@@ -1,2 +1,3 @@
 # Medieval-Pyramid
-A simple school heireachy pyramis
+A simple school heireachy pyramid
+
